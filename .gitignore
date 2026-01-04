@@ -1,0 +1,10 @@
+.env
+.venv
+__pycache__/
+TestAiven.py
+check_cols.py
+debug_env.py
+debug_query.py
+inspect_schema.py
+verify_endpoints.py
+write_env.py
